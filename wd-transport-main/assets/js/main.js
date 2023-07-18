@@ -101,5 +101,3 @@ blurOverlay.addEventListener("click", function(event) {
     });
   }
 });
-
-// just testing
